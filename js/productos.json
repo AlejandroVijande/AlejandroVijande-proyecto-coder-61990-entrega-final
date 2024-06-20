@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "marca": "PRS",
+    "modelo": "Custom 24",
+    "precio": 350000,
+    "stock": 10,
+    "imagen": "./img/gtr-01.webp"
+  },
+  {
+    "id": 2,
+    "marca": "Gibson",
+    "modelo": "Les Paul Standard",
+    "precio": 320000,
+    "stock": 5,
+    "imagen": "./img/gtr-02.webp"
+  },
+  {
+    "id": 3,
+    "marca": "Fender",
+    "modelo": "Stratocaster American II",
+    "precio": 160000,
+    "stock": 8,
+    "imagen": "./img/gtr-03.webp"
+  },
+  {
+    "id": 4,
+    "marca": "PRS",
+    "modelo": "SE Custom 24",
+    "precio": 85000,
+    "stock": 12,
+    "imagen": "./img/gtr-04.webp"
+  },
+  {
+    "id": 5,
+    "marca": "Gibson",
+    "modelo": "SG Standard",
+    "precio": 150000,
+    "stock": 6,
+    "imagen": "./img/gtr-05.webp"
+  },
+  {
+    "id": 6,
+    "marca": "Fender",
+    "modelo": "Telecaster American '50s",
+    "precio": 190000,
+    "stock": 7,
+    "imagen": "./img/gtr-06.webp"
+  },
+  {
+    "id": 7,
+    "marca": "PRS",
+    "modelo": "McCarty 594",
+    "precio": 400000,
+    "stock": 4,
+    "imagen": "./img/gtr-07.webp"
+  },
+  {
+    "id": 8,
+    "marca": "Gibson",
+    "modelo": "ES-335",
+    "precio": 300000,
+    "stock": 3,
+    "imagen": "./img/gtr-08.webp"
+  },
+  {
+    "id": 9,
+    "marca": "Fender",
+    "modelo": "Jazzmaster Performer",
+    "precio": 120000,
+    "stock": 10,
+    "imagen": "./img/gtr-09.webp"
+  },
+  {
+    "id": 10,
+    "marca": "PRS",
+    "modelo": "Silver Sky",
+    "precio": 230000,
+    "stock": 9,
+    "imagen": "./img/gtr-10.webp"
+  },
+  {
+    "id": 11,
+    "marca": "Gibson",
+    "modelo": "Flying V",
+    "precio": 220000,
+    "stock": 5,
+    "imagen": "./img/gtr-11.webp"
+  },
+  {
+    "id": 12,
+    "marca": "Fender",
+    "modelo": "Mustang",
+    "precio": 700000,
+    "stock": 15,
+    "imagen": "./img/gtr-12.webp"
+  },
+  {
+    "id": 13,
+    "marca": "PRS",
+    "modelo": "CE 24",
+    "precio": 200000,
+    "stock": 8,
+    "imagen": "./img/gtr-13.webp"
+  },
+  {
+    "id": 14,
+    "marca": "Gibson",
+    "modelo": "Explorer",
+    "precio": 210000,
+    "stock": 4,
+    "imagen": "./img/gtr-14.webp"
+  },
+  {
+    "id": 15,
+    "marca": "Fender",
+    "modelo": "Jaguar American '60s",
+    "precio": 1800000,
+    "stock": 6,
+    "imagen": "./img/gtr-15.webp"
+  },
+  {
+    "id": 16,
+    "marca": "PRS",
+    "modelo": "SE Mark Holcomb",
+    "precio": 110000,
+    "stock": 7,
+    "imagen": "./img/gtr-16.webp"
+  },
+  {
+    "id": 17,
+    "marca": "Gibson",
+    "modelo": "Firebird",
+    "precio": 240000,
+    "stock": 3,
+    "imagen": "./img/gtr-17.webp"
+  },
+  {
+    "id": 18,
+    "marca": "Fender",
+    "modelo": "Duo-Sonic",
+    "precio": 600000,
+    "stock": 14,
+    "imagen": "./img/gtr-18.webp"
+  },
+  {
+    "id": 19,
+    "marca": "PRS",
+    "modelo": "SE Zach Myers",
+    "precio": 900000,
+    "stock": 11,
+    "imagen": "./img/gtr-19.webp"
+  },
+  {
+    "id": 20,
+    "marca": "Gibson",
+    "modelo": "Les Paul Junior",
+    "precio": 140000,
+    "stock": 6,
+    "imagen": "./img/gtr-20.webp"
+  }
+]
